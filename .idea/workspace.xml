@@ -51,7 +51,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ElectronicsShop">
+  <component name="RunManager" selected="Application.ClimbingTheLeaderBoard">
+    <configuration name="ClimbingTheLeaderBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClimbingTheLeaderBoard" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DrawingBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DrawingBook" />
       <module name="HackerRank" />
@@ -68,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClimbingTheLeaderBoard" />
         <item itemvalue="Application.ElectronicsShop" />
         <item itemvalue="Application.DrawingBook" />
       </list>
@@ -91,7 +99,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
