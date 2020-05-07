@@ -1,9 +1,8 @@
 import java.util.*;
 
 public class ClimbingTheLeaderBoard {
-
     /*
-    https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+     https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
      */
 
     static int[] climbingLeaderboard(int[] scores1, int[] alice) {
@@ -52,7 +51,6 @@ public class ClimbingTheLeaderBoard {
         }
         return -1;
     }
-
 
     static int[] getRanks(Integer[] scores) {
         int[] ranks = new int[scores.length];

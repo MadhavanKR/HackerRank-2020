@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClimbingTheLeaderBoard">
+  <component name="RunManager" selected="Application.RepeatedString">
     <configuration name="ClimbingTheLeaderBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClimbingTheLeaderBoard" />
       <module name="HackerRank" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawingBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DrawingBook" />
+    <configuration name="DesignerPdfViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignerPdfViewer" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RepeatedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatedString" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheHurdleRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheHurdleRace" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatedString" />
+        <item itemvalue="Application.DesignerPdfViewer" />
+        <item itemvalue="Application.TheHurdleRace" />
         <item itemvalue="Application.ClimbingTheLeaderBoard" />
         <item itemvalue="Application.ElectronicsShop" />
-        <item itemvalue="Application.DrawingBook" />
       </list>
     </recent_temporary>
   </component>
