@@ -1,1 +1,78 @@
 1
+4
+997612619 934920795 998879231 999926463
+960369681 997828120 999792735 979622676
+999013654 998634077 997988323 958769423
+997409523 999301350 940952923 993020546
+
+processing container 0
+processing ball 1
+swapped 934920795 no 1 balls from container 0 to container 1
+processing ball 2
+swapped 998879231 no 2 balls from container 0 to container 2
+processing ball 3
+swapped 997409523 no 3 balls from container 0 to container 3
+swapped 2516940 no 3 balls from container 0 to container 1
+after processing container 0 state of containers is:
+3931339108 0 0 0
+22931946 1932748915 999792735 982139616
+134423 998634077 1996867554 958769423
+0 999301350 940952923 1990430069
+
+
+processing container 1
+processing ball 0
+swapped 0 no 0 balls from container 1 to container 0
+swapped 22931946 no 0 balls from container 1 to container 2
+processing ball 2
+swapped 975702131 no 2 balls from container 1 to container 2
+swapped 24090604 no 2 balls from container 1 to container 3
+processing ball 3
+swapped 975210746 no 3 balls from container 1 to container 3
+swapped 0 no 3 balls from container 1 to container 2
+after processing container 1 state of containers is:
+3931339108 0 0 0
+0 3930684342 0 6928870
+23066369 0 2972569685 958769423
+0 0 965043527 2965640815
+
+
+processing container 2
+processing ball 0
+swapped 0 no 0 balls from container 2 to container 0
+swapped 23066369 no 0 balls from container 2 to container 3
+processing ball 1
+swapped 0 no 1 balls from container 2 to container 1
+processing ball 3
+swapped 941977158 no 3 balls from container 2 to container 3
+after processing container 2 state of containers is:
+3931339108 0 0 0
+0 3930684342 0 6928870
+0 0 3937613212 16792265
+23066369 0 0 3907617973
+
+
+processing container 3
+processing ball 0
+swapped 0 no 0 balls from container 3 to container 0
+processing ball 1
+swapped 0 no 1 balls from container 3 to container 1
+processing ball 2
+swapped 0 no 2 balls from container 3 to container 2
+after processing container 3 state of containers is:
+3931339108 0 0 0
+0 3930684342 0 6928870
+0 0 3937613212 16792265
+23066369 0 0 3907617973
+
+
+3928822168 0 0 2516940
+25448886 3911005668 1158658 0
+134423 0 3936454554 17816500
+0 19678674 0 3911005668
+
+3928822168 0 0 2516940
+25448886 3911005668 1158658 0
+134423 0 3936454554 17816500
+0 19678674 0 3911005668
+

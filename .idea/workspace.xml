@@ -33,7 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../drooltrial" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -51,14 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RepeatedString">
-    <configuration name="ClimbingTheLeaderBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClimbingTheLeaderBoard" />
-      <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OrganizeContainerBalls">
     <configuration name="DesignerPdfViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignerPdfViewer" />
       <module name="HackerRank" />
@@ -66,8 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElectronicsShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElectronicsShop" />
+    <configuration name="HighestValuePalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HighestValuePalindrome" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrganizeContainerBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrganizeContainerBalls" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrganizeContainerBalls" />
+        <item itemvalue="Application.HighestValuePalindrome" />
         <item itemvalue="Application.RepeatedString" />
         <item itemvalue="Application.DesignerPdfViewer" />
         <item itemvalue="Application.TheHurdleRace" />
-        <item itemvalue="Application.ClimbingTheLeaderBoard" />
-        <item itemvalue="Application.ElectronicsShop" />
       </list>
     </recent_temporary>
   </component>
